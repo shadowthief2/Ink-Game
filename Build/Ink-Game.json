@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Ink-Game.data.unityweb",
+"asmCodeUrl": "Ink-Game.asm.code.unityweb",
+"asmMemoryUrl": "Ink-Game.asm.memory.unityweb",
+"asmFrameworkUrl": "Ink-Game.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
